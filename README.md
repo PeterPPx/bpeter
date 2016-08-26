@@ -1,2 +1,2 @@
 # bpeter
-this is a personal blog
+博客
